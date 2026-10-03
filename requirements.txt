@@ -1,0 +1,6 @@
+langchain-core
+langchain-huggingface
+python-dotenv
+pydantic
+streamlit
+grandalf
